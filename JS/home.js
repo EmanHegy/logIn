@@ -1,0 +1,1 @@
+document.getElementById('headId').innerHTML = 'Welcome ' +localStorage.getItem('user');
